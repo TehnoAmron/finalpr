@@ -1,0 +1,5 @@
+0 healthy_food
+1 plastic_packaging
+2 meat_products
+3 sweets
+4 local_produce
